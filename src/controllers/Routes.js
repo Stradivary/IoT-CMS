@@ -24,4 +24,5 @@ const checkAuth = () => (
     </Router>
   </Provider>
 );
+
 export default checkAuth;

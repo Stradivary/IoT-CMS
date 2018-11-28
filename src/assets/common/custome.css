@@ -19,6 +19,14 @@
 	background-color: #063135 !important;
 	border-right: 2px solid #063135 !important; 
 }
+
+.ant-menu-item:hover{
+	color:#ff4e1a !important
+}
+
+.trigger:hover{
+	color:#ff4e1a !important
+}
 .spanClass{
 	float: right;
 	margin:0px;

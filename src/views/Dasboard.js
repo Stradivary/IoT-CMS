@@ -45,11 +45,11 @@ class Dasboard extends React.Component{
             </Menu.Item>
             <Menu.Item key="2">
               <Icon type="desktop" />
-              <span>Product</span>
+              <span>Device</span>
             </Menu.Item>
             <Menu.Item key="3">
               <Icon type="shop" />
-              <span>Purchases</span>
+              <span>Schedule</span>
             </Menu.Item>
           </Menu>
         </Sider>
@@ -62,7 +62,7 @@ class Dasboard extends React.Component{
             />
             <div className="spanClass">
               <div className="col-lg-12">
-              <div className="d-flex justify-content-center">Welcome, Wawan</div>
+              <div className="d-flex justify-content-center">Welcome, Admin</div>
               </div>
             </div>
           </Header>
