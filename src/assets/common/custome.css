@@ -1,0 +1,31 @@
+.bg-base-clr{
+	background-color: #063135;
+}
+.ant-layout-sider-children{
+	background-color: #063135;
+}
+.ant-menu-item{
+	background-color: #063135;
+	color:#fff;
+	font-weight: 700;
+}
+.ant-menu-item-selected{
+	background-color: #ff4e1a !important;
+	border-right: 2px solid #ff4e1a !important; 
+	color : #fff !important;
+	font-weight: 700;
+}
+.ant-menu-root{
+	background-color: #063135 !important;
+	border-right: 2px solid #063135 !important; 
+}
+.spanClass{
+	float: right;
+	margin:0px;
+	padding:0px;
+	border-left: 1px solid #999;
+	width:180px;
+}
+body{
+	color:#fbfffc;
+}
